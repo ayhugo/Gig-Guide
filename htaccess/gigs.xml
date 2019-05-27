@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<gigguide>
+    <gigs>
+        <gig>
+            <title>Technotronik NZ Tour</title>
+            <details>The legendary DJ Teknosis is finishing up his NZ tour with
+                known collaborator YEETocalypse
+            </details>
+            <artistsperforming>DJ Teknosis, YEETocalypse</artistsperforming>
+            <artistslink>www.soundcloud.com/djteknosis, www.soundcloud.com/yeetocalypse</artistslink>
+            <date>19-05-2019</date>
+            <doortime>20:00</doortime>
+            <genre>Techno</genre>
+            <venue>Catacombs</venue>
+            <age>R18</age>
+            <price>$10</price>
+        </gig>
+        <gig>
+            <title>Queen Bean and Her Mean Green Dream Team</title>
+            <details>The Estonian phenomenon Queen Bean performs with her
+                avant garde troupe for the first time in New Zealand
+            </details>
+            <artistsperforming>Queen Bean</artistsperforming>
+            <artistslink>www.queenbean.co.ee</artistslink>
+            <date>26-05-2019</date>
+            <doortime>19:00</doortime>
+            <genre>Art/Avant Garde/Dance/Experimental</genre>
+            <venue>ReFuel</venue>
+            <age>R18</age>
+            <price>Free</price>
+        </gig>
+        <gig>
+            <title>Drum and Bones!</title>
+            <details>A horrifically dirty drum and bass event held on Halloween!
+                Costumes are required. Prizes for the best costumes will be awarded.
+            </details>
+            <artistsperforming>sp00kzilla, Skeletr0n, !!!Pumpking!!!</artistsperforming>
+            <artistslink>www.facebook.com/sp00kzilla, www.facebook.com/skeletr0n,
+                www.soundcloud.com/pumpking
+            </artistslink>
+            <date>31-10-2019</date>
+            <doortime>18:30</doortime>
+            <genre>Drum and Bass</genre>
+            <venue>Catacombs</venue>
+            <age>R18</age>
+            <price>$20</price>
+        </gig>
+        <gig>
+            <title>asc</title>
+            <details>asc</details>
+            <artistsperforming>asd</artistsperforming>
+            <artistslink>asd</artistslink>
+            <date>17-05-2019</date>
+            <doortime>20:00</doortime>
+            <genre>Acoustic/Solo</genre>
+            <venue>Carousel Lounge Bar</venue>
+            <age>All Ages</age>
+            <price>0</price>
+        </gig>
+    <gig>
+        <title>Willy Wonka</title>
+        <details>A whole lot of confectionery assortments </details>
+        <artistsperforming>Charlie</artistsperforming>
+        <artistslink>http://www.youtube.com/willywonky</artistslink>
+        <date>22-05-2019</date>
+        <doortime>2:00</doortime>
+        <genre>Hip Hop/RnB</genre>
+        <venue>ReFuel</venue>
+        <age>PG</age>
+        <price>10</price>
+    </gig>
+    <gig><title>A Night of Slam Poetry</title><details>A full night of slam poetry and blues</details><artistsperforming>Jonathan Jenkins, Stevie Blunder</artistsperforming><artistslink>http://www.bandcamp.com/jjenkins</artistslink><date>22-05-2019</date><doortime>19:15</doortime><genre>Blues</genre><venue>Carousel Lounge Bar</venue><age>R18</age><price>15</price></gig></gigs>
+</gigguide>
